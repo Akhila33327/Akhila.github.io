@@ -1,12 +1,18 @@
-﻿# My Personal Profile
-# Welcome to My GitHub Profile!
+# 👋 Hi, I'm Akhila!
 
-Hi there! I'm Akhila, a passionate developer who loves working on cool projects! 🎉
+🔍 I'm passionate about AI, cybersecurity, and software engineering.
 
-## Skills & Technologies:
-- Programming Languages: Python, Assembly Language Programming,,C etc.
-- Tools & Frameworks: Git, Pycharm,Vscode, etc.
+## 🚀 Skills & Technologies
+- **Languages:** Python, Assembly Language Programming (ALP), C, C++
+- **Competitive Programming:** Data Structures, Algorithms
+- **Frameworks & Tools:** Streamlit, FastAPI, Git, GitHub, VSCode, Pycharm
 
-## Connect with me:
-- [Twitter](https://twitter.com/Kuruva Akhila)
-- [LinkedIn](https://linkedin.com/in/Kuruva Akhila)
+## 📦 Projects
+- 🕵️‍♀️ [Stego App - AI-based Steganography Detector](https://github.com/Akhila33327/stego-app)
+- 📊 Real-time Network Threat Detection using AI
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/Akhila33327)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhila33327&layout=compact)
