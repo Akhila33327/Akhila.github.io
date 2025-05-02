@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhila!
 
-🔍 I'm passionate about AI, cybersecurity, and software engineering.
+🔍 I'm passionate about AI, cybersecurity, and software engineering and a passionate developer who loves working on cool projects! 🎉.
 
 ## 🚀 Skills & Technologies
 - **Languages:** Python, Assembly Language Programming (ALP), C, C++
