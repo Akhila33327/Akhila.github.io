@@ -8,7 +8,7 @@
 
 ## 📦 Projects
 - 🕵️‍♀️ [Stego App - AI-based Steganography Detector](https://github.com/Akhila33327/stego-app)
-- 🔍 [SYNTHACK-AI-based real-time network threat detection system](https://github.com/Akhila33327/SYNTHACK)
+- 🔍 [SYNTHACK-AI-Health Advisor](https://github.com/Akhila33327/SYNTHACK)
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [GitHub](https://github.com/Akhila33327)
